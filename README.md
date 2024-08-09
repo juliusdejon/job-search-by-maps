@@ -1,6 +1,9 @@
 # JobSearch App made in IOS(SwiftUI)
 
+Original repo: https://github.com/Lalcordo/JobSearch_G5
+
 # Features
+
 - Sign up / Sign In as a User/Job Seeker
 - Sign out
 - Login/SignUp validations when user input is incorrect or fields are empty
@@ -12,6 +15,7 @@
 - View job details
 
 # Services, Dependancies, and Architecture
+
 - RESTful API
 - Firebase firestore
 - Firebase Authentication (email and password)
@@ -21,6 +25,7 @@
 - AlamoFire
 
 # Author
+
 - Julius Dejon
 - Leo Alcordo
 - Gagan Grewal
